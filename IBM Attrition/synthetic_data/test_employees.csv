@@ -1,0 +1,101 @@
+JobRole,WorkLifeBalance,EducationField,JobLevel,OverTime,BusinessTravel,YearsAtCompany,Education,JobInvolvement,TotalWorkingYears,Attrition
+Manager,Best,Marketing,4,No,Travel_Rarely,<= 4,Bachelor,High,11-15,No
+Healthcare Representative,Good,Other,4,No,Travel_Rarely,> 9,Bachelor,Medium,> 15,No
+Laboratory Technician,Good,Life Sciences,1,No,Travel_Rarely,5-6,College,Medium,7-10,No
+Healthcare Representative,Better,Medical,2,Yes,Non-Travel,5-6,Master,High,> 15,No
+Laboratory Technician,Better,Medical,1,No,Travel_Rarely,<= 4,Bachelor,High,7-10,No
+Human Resources,Better,Life Sciences,2,No,Travel_Rarely,> 9,Master,Medium,7-10,No
+Sales Executive,Good,Medical,3,No,Travel_Rarely,7-9,Bachelor,High,7-10,No
+Healthcare Representative,Better,Life Sciences,2,Yes,Non-Travel,5-6,Master,High,<= 6,No
+Manager,Bad,Marketing,3,No,Travel_Rarely,> 9,Master,High,11-15,Yes
+Sales Representative,Better,Marketing,2,No,Travel_Rarely,<= 4,Bachelor,High,7-10,Yes
+Laboratory Technician,Better,Medical,2,No,Travel_Rarely,> 9,Master,Medium,11-15,No
+Sales Executive,Better,Other,2,No,Travel_Rarely,5-6,College,High,7-10,No
+Sales Executive,Good,Medical,3,No,Non-Travel,7-9,Master,High,> 15,No
+Manufacturing Director,Good,Other,2,No,Travel_Frequently,> 9,Master,High,7-10,No
+Manager,Bad,Marketing,4,No,Travel_Rarely,> 9,Below College,High,> 15,No
+Human Resources,Better,Other,2,Yes,Travel_Rarely,5-6,Bachelor,Medium,7-10,Yes
+Manager,Good,Life Sciences,4,No,Travel_Rarely,<= 4,Master,High,> 15,No
+Manufacturing Director,Better,Life Sciences,2,No,Travel_Frequently,<= 4,Master,High,11-15,No
+Sales Representative,Better,Life Sciences,1,Yes,Travel_Rarely,7-9,Master,High,11-15,Yes
+Research Scientist,Better,Medical,1,No,Non-Travel,<= 4,Master,High,<= 6,No
+Laboratory Technician,Better,Medical,1,No,Travel_Frequently,<= 4,Doctor,Medium,<= 6,No
+Healthcare Representative,Better,Technical Degree,2,No,Travel_Rarely,7-9,Bachelor,High,7-10,No
+Laboratory Technician,Bad,Medical,1,No,Travel_Rarely,7-9,Bachelor,Low,7-10,No
+Laboratory Technician,Better,Medical,1,No,Non-Travel,<= 4,Master,High,7-10,No
+Sales Representative,Better,Marketing,1,No,Travel_Rarely,<= 4,Bachelor,High,<= 6,No
+Laboratory Technician,Better,Medical,1,Yes,Travel_Frequently,5-6,Master,High,<= 6,Yes
+Manufacturing Director,Better,Life Sciences,3,Yes,Travel_Rarely,<= 4,College,Medium,> 15,No
+Laboratory Technician,Better,Medical,1,No,Travel_Rarely,5-6,Bachelor,High,7-10,No
+Human Resources,Bad,Medical,1,Yes,Travel_Rarely,<= 4,Bachelor,Medium,7-10,Yes
+Sales Executive,Better,Life Sciences,3,No,Travel_Rarely,> 9,Master,High,11-15,No
+Laboratory Technician,Best,Life Sciences,1,No,Travel_Frequently,5-6,Bachelor,Medium,11-15,Yes
+Sales Executive,Better,Technical Degree,2,No,Travel_Rarely,> 9,Master,High,7-10,No
+Laboratory Technician,Better,Other,1,No,Travel_Rarely,<= 4,Bachelor,Very High,<= 6,No
+Sales Representative,Good,Marketing,1,No,Non-Travel,<= 4,Bachelor,High,<= 6,No
+Sales Executive,Good,Medical,2,No,Travel_Rarely,5-6,Master,High,7-10,No
+Laboratory Technician,Good,Medical,1,Yes,Travel_Frequently,<= 4,Below College,High,<= 6,Yes
+Laboratory Technician,Better,Medical,1,Yes,Travel_Frequently,7-9,Master,High,7-10,No
+Laboratory Technician,Good,Medical,2,No,Travel_Rarely,<= 4,Master,High,11-15,No
+Sales Executive,Good,Marketing,2,No,Travel_Frequently,5-6,College,High,> 15,No
+Laboratory Technician,Good,Medical,1,No,Travel_Frequently,7-9,Below College,Medium,7-10,No
+Manufacturing Director,Good,Life Sciences,2,No,Travel_Rarely,> 9,Bachelor,High,11-15,No
+Sales Executive,Better,Life Sciences,2,No,Travel_Rarely,5-6,College,High,7-10,No
+Research Director,Good,Medical,3,Yes,Travel_Rarely,<= 4,Master,Very High,> 15,Yes
+Research Scientist,Better,Medical,1,No,Travel_Frequently,7-9,Bachelor,High,11-15,No
+Laboratory Technician,Best,Life Sciences,1,No,Travel_Rarely,> 9,Below College,High,7-10,No
+Manufacturing Director,Better,Medical,2,Yes,Travel_Rarely,> 9,College,Medium,7-10,No
+Sales Executive,Better,Other,2,No,Travel_Rarely,<= 4,Bachelor,High,<= 6,No
+Human Resources,Better,Human Resources,2,No,Non-Travel,> 9,College,High,11-15,No
+Laboratory Technician,Better,Technical Degree,1,No,Travel_Rarely,5-6,Bachelor,Very High,<= 6,No
+Research Director,Better,Life Sciences,4,Yes,Travel_Frequently,> 9,Below College,High,11-15,Yes
+Sales Representative,Better,Life Sciences,2,No,Travel_Rarely,7-9,College,High,11-15,No
+Research Director,Best,Life Sciences,3,No,Travel_Frequently,7-9,Bachelor,Medium,7-10,Yes
+Laboratory Technician,Better,Other,1,Yes,Travel_Rarely,<= 4,Master,Medium,<= 6,No
+Laboratory Technician,Better,Other,1,No,Travel_Frequently,5-6,Master,High,7-10,No
+Sales Representative,Better,Marketing,2,Yes,Travel_Rarely,7-9,College,High,7-10,Yes
+Research Director,Best,Other,2,No,Travel_Rarely,> 9,College,Medium,7-10,No
+Healthcare Representative,Better,Medical,3,No,Travel_Rarely,<= 4,Master,Low,> 15,Yes
+Manufacturing Director,Better,Life Sciences,1,No,Non-Travel,<= 4,College,High,<= 6,No
+Laboratory Technician,Best,Medical,1,No,Travel_Rarely,<= 4,Below College,High,<= 6,No
+Laboratory Technician,Good,Life Sciences,1,No,Travel_Rarely,<= 4,Master,High,<= 6,No
+Manufacturing Director,Good,Technical Degree,2,No,Travel_Rarely,7-9,Bachelor,Low,7-10,No
+Manager,Better,Life Sciences,4,Yes,Non-Travel,> 9,Below College,Medium,> 15,No
+Sales Executive,Better,Other,2,No,Travel_Rarely,5-6,Bachelor,Medium,<= 6,No
+Laboratory Technician,Good,Technical Degree,2,No,Travel_Rarely,5-6,Below College,High,7-10,No
+Laboratory Technician,Good,Life Sciences,2,No,Travel_Rarely,<= 4,College,High,7-10,No
+Research Scientist,Better,Life Sciences,1,No,Travel_Rarely,> 9,Bachelor,High,7-10,No
+Research Scientist,Better,Technical Degree,2,No,Travel_Rarely,7-9,Doctor,High,11-15,No
+Laboratory Technician,Better,Other,2,Yes,Travel_Rarely,<= 4,College,Medium,7-10,No
+Sales Representative,Better,Marketing,2,No,Travel_Frequently,<= 4,Master,High,<= 6,No
+Manager,Best,Life Sciences,4,No,Travel_Rarely,> 9,Bachelor,Medium,> 15,No
+Research Scientist,Better,Medical,1,No,Travel_Rarely,5-6,Bachelor,Medium,<= 6,No
+Manufacturing Director,Bad,Life Sciences,2,No,Travel_Rarely,7-9,Bachelor,High,7-10,No
+Sales Executive,Better,Life Sciences,2,No,Travel_Frequently,<= 4,College,High,7-10,No
+Manufacturing Director,Best,Technical Degree,2,No,Travel_Rarely,7-9,Bachelor,High,7-10,No
+Manager,Best,Marketing,4,Yes,Travel_Rarely,5-6,Bachelor,Very High,> 15,No
+Sales Executive,Good,Medical,3,No,Travel_Rarely,> 9,Below College,Medium,11-15,No
+Sales Executive,Good,Medical,2,No,Travel_Frequently,> 9,Below College,High,7-10,No
+Sales Executive,Better,Technical Degree,2,Yes,Travel_Rarely,> 9,Master,High,> 15,No
+Manager,Better,Marketing,4,Yes,Travel_Frequently,7-9,Bachelor,High,> 15,No
+Healthcare Representative,Best,Other,2,No,Travel_Rarely,5-6,Master,Very High,11-15,No
+Research Scientist,Better,Life Sciences,2,No,Travel_Rarely,> 9,Master,High,11-15,No
+Healthcare Representative,Better,Medical,2,Yes,Travel_Rarely,7-9,College,High,7-10,No
+Sales Executive,Best,Medical,1,Yes,Travel_Frequently,<= 4,Below College,High,<= 6,No
+Laboratory Technician,Bad,Life Sciences,1,No,Travel_Rarely,7-9,Bachelor,Medium,<= 6,No
+Research Scientist,Better,Life Sciences,3,Yes,Travel_Rarely,> 9,Doctor,High,> 15,Yes
+Sales Executive,Better,Marketing,2,No,Travel_Rarely,<= 4,Master,Very High,<= 6,No
+Sales Executive,Best,Technical Degree,2,No,Travel_Rarely,> 9,Master,High,7-10,No
+Laboratory Technician,Better,Life Sciences,1,Yes,Travel_Frequently,<= 4,Bachelor,Medium,7-10,Yes
+Laboratory Technician,Better,Medical,1,Yes,Travel_Rarely,<= 4,Below College,High,<= 6,No
+Research Director,Better,Medical,5,No,Travel_Rarely,<= 4,Bachelor,High,> 15,No
+Laboratory Technician,Better,Life Sciences,1,Yes,Travel_Rarely,5-6,Master,High,<= 6,No
+Manufacturing Director,Better,Life Sciences,3,No,Travel_Rarely,7-9,Master,Medium,7-10,No
+Manager,Best,Life Sciences,3,No,Travel_Rarely,> 9,Bachelor,High,> 15,No
+Manager,Good,Medical,4,No,Travel_Rarely,> 9,Below College,Very High,> 15,No
+Manager,Good,Life Sciences,4,No,Travel_Rarely,> 9,Master,High,> 15,No
+Laboratory Technician,Good,Life Sciences,1,No,Travel_Rarely,7-9,Master,Low,11-15,No
+Healthcare Representative,Bad,Life Sciences,2,No,Travel_Rarely,> 9,College,High,7-10,No
+Sales Representative,Better,Technical Degree,2,Yes,Travel_Rarely,<= 4,Bachelor,Low,7-10,Yes
+Manufacturing Director,Better,Other,3,No,Travel_Rarely,> 9,Below College,High,11-15,No
+Sales Representative,Good,Technical Degree,1,No,Travel_Rarely,<= 4,Bachelor,High,7-10,No

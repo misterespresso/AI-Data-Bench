@@ -1,0 +1,13 @@
+model,employee_index,true_label,raw_answer,predicted_label,leave_probability,latency_s,uncached_input_tokens,cached_input_tokens,cache_write_tokens,output_tokens,reasoning_tokens,cost_usd,served_model,error,timestamp
+gpt-oss 20B (local),0,No,Stay,No,,34.35435529999995,25612,0,0,4742,4731,0.0,gpt-oss:20b,,2026-09-25T16:19:36.858094+00:00
+gpt-oss 20B (local),1,No,,,,50.70629600000029,25612,0,0,7000,6997,0.0,gpt-oss:20b,,2026-09-25T16:20:11.213311+00:00
+gpt-oss 20B (local),2,No,Stay,No,,22.38667130000067,25615,0,0,3110,3099,0.0,gpt-oss:20b,,2026-09-25T16:21:01.920249+00:00
+gpt-oss 20B (local),3,No,Stay,No,,25.149317399998836,25612,0,0,3526,3515,0.0,gpt-oss:20b,,2026-09-25T16:21:24.307576+00:00
+gpt-oss 20B (local),4,No,Stay,No,,21.928769199999806,25613,0,0,3055,3044,0.0,gpt-oss:20b,,2026-09-25T16:21:49.457387+00:00
+gpt-oss 20B (local),5,No,,,,50.31000329999915,25614,0,0,7000,6997,0.0,gpt-oss:20b,,2026-09-25T16:22:11.386821+00:00
+gpt-oss 20B (local),6,No,Stay,No,,7.46436790000007,25614,0,0,1033,1022,0.0,gpt-oss:20b,,2026-09-25T16:23:01.697503+00:00
+gpt-oss 20B (local),7,No,Stay,No,,35.51276019999932,25613,0,0,5026,5015,0.0,gpt-oss:20b,,2026-09-25T16:23:09.162307+00:00
+gpt-oss 20B (local),8,Yes,Stay,No,,24.976552500000253,25612,0,0,3456,3445,0.0,gpt-oss:20b,,2026-09-25T16:23:44.675983+00:00
+gpt-oss 20B (local),9,Yes,Leave,Yes,,32.59596839999904,25613,0,0,4577,4566,0.0,gpt-oss:20b,,2026-09-25T16:24:09.652994+00:00
+gpt-oss 20B (local),10,No,Stay,No,,28.072175199999037,25613,0,0,3917,3906,0.0,gpt-oss:20b,,2026-09-25T16:24:42.249423+00:00
+gpt-oss 20B (local),11,No,Stay,No,,21.753659899999548,25614,0,0,3025,3014,0.0,gpt-oss:20b,,2026-09-25T16:25:10.322307+00:00
